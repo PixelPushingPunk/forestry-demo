@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: projects
-description: Projects by Belkirk Collegesss
+description: Projects by Belkirk Colleges
 publish_date: 2017-11-01 03:00:00 +0000
 menu:
   footer:
