@@ -7,6 +7,7 @@ fields:
   label: Title
   config:
     required: true
+- type: file
 - type: textarea
   name: description
   label: Description
