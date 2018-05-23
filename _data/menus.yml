@@ -1,5 +1,8 @@
 ---
 navigation:
+- url: "/innovations"
+  weight: 2
+  title: Innovations
 - url: "/industries"
-  weight: 1
+  weight: 6
   title: Industries
