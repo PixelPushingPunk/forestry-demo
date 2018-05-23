@@ -1,7 +1,7 @@
 ---
 title: Projects Numero Uno
 layout: projects
-description: Projects by Belkirk College
+description: Projects by Belkirk Collegesss
 publish_date: 2017-11-01 03:00:00 +0000
 menu:
   footer:
